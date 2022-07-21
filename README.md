@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @wiren301
-- 👀 I’m interested in coding 
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in coding
 - 📫 How to reach me iondonos2002@gmail.com
 
 <!---
